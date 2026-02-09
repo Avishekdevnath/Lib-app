@@ -1,0 +1,9 @@
+.lib_env/
+.env/
+venv/
+__pycache__/
+db.sqlite3
+.git/
+.git/
+.github/
+.vscode/
